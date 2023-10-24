@@ -1,0 +1,33 @@
+body{
+    background-color: yellow;
+}
+/* nooit herhalen als het helemaal het zelfde is
+*/
+h1{
+    background-color: red;
+    font-size: 4em;
+}
+
+
+/*pseudo-class selector*/
+p:first-letter{
+    font-size: 5em;
+    color:red;
+}
+
+/*p:first-line{
+    text-decoration: underline;
+}*/
+/* pg 19-20 hulp */
+
+/*psuedo-class selector*/
+a:link{
+    text-decoration: none;
+}
+li>a:hover{
+    text-decoration: underline;
+}
+/* alle oneven li */
+li:nth-child(2n+1){
+    color: blue;
+}
