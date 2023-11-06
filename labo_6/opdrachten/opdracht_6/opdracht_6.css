@@ -1,0 +1,6 @@
+.checklist{
+    list-style-image: url(images/thumbs_down.jpg);
+}
+.checked{
+    list-style-image: url(images/thumbs_up.jpg);
+}

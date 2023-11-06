@@ -1,0 +1,34 @@
+body{
+    font-family: Helvetica, Arial;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 40px;
+}
+a{
+    color: #EF233C;
+}
+header > h1{
+    color: #EDF2F4;
+}
+header > h2{
+    color: #EDF2F4;
+}
+header{
+    background-color: #2B2D42;
+    padding: 30px;
+    margin-bottom: 10px;
+    color: #8D99AE;
+}
+footer{
+    background-color: #2B2D42;
+    padding: 30px;
+    margin-top: 10px;
+    color: #8D99AE;
+}
+main{
+    background-color: #8D99AE;
+    padding: 30px;
+}
