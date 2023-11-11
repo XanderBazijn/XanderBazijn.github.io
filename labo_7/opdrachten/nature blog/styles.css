@@ -1,0 +1,35 @@
+body{
+    width: 95%;
+    margin: auto;
+}
+header.hoofd{
+    background-image: url(images/header.jpg);
+    margin: 0px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+h1.main{
+    font-family: Verdana;
+    color: white;
+    font-size: 3em;
+    margin: 0px;
+}
+nav{
+    background-color: dimgrey;
+    height: 20px;
+}
+nav a{
+    color: springgreen;
+    text-decoration: none;
+}
+article{
+    background-color: rgba(206, 206, 206, 0.38);
+}
+article header{
+    font-size: 2em;
+    text-decoration: underline;
+}
+article header h1{
+    margin: 5px;
+}

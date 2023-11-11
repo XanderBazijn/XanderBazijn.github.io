@@ -1,6 +1,6 @@
 .checklist{
-    list-style-image: url(images/thumbs_down.jpg);
+    list-style-image: url(images/uncheck2.png);
 }
 .checked{
-    list-style-image: url(images/thumbs_up.jpg);
+    list-style-image: url(images/check2.png);
 }

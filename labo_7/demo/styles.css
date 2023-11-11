@@ -1,0 +1,13 @@
+header.hoofd h1 /*0012*/{
+    color: navy;
+}
+header h1 /* 0002*/{
+    color: beige;
+}
+h1 /* 0001*/{
+    color: red;
+}
+h1 /* 0001*/{
+    color: blue;
+}
+/*als hetzelde, laatste wint*/

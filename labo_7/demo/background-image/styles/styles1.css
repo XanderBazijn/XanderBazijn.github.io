@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    background-color: #EDF2F4;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header h1 {
+    margin: 0px;
+    color: red
+}
+header{
+    height: 1000px;
+    background-image: url(../images/riven-lol-dawnbringer-splash-art-uhdpaper.com-4K-444.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
