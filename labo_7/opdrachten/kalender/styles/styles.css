@@ -1,0 +1,41 @@
+body{
+    padding-left: 500px;
+    padding-right: 560px;
+}
+.kalender{
+    border: 2px solid black;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.kalender table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.kalender thead{
+    background-color: rgb(170, 170, 200);
+
+}
+.dagen{
+    color: rgb(200, 190, 240);
+    background-color: rgb(35,37,70);
+}
+.kalender table tbody td{
+    border: 1px dotted black;
+}
+.vrije_dag{
+    background-color: rgb(250,120,120);
+}
+
+tbody tr :first-child{
+    background-color: rgb(255,220,220);
+}
+tbody tr :last-child{
+    background-color: rgb(255,220,220);
+}
+tbody tr .andereMaand {
+    background-color: lightgrey;
+    color: grey;
+}
+
+
