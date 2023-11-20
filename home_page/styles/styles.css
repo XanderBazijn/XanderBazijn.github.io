@@ -1,0 +1,59 @@
+body {
+    width: 95%;
+    margin: auto;
+    background-color: rgba(119, 161, 255, 0.39);
+}
+header.hoofd{
+    background-image: url(../images/zephyr_riven_banner_twitter_by_dj_xigu_dbdabq3-fullview.jpg);
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    color: white;
+    border: solid black 2px;
+}
+a:any-link{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+img{
+    display: block;
+}
+article{
+    background-color: rgba(57, 131, 255, 0.57);
+    margin: 5px;
+    border: solid black 2px;
+}
+h1{
+    font-family: Verdana;
+    font-size: 3em;
+    margin: 0px;
+}
+h2{
+    font-size: 2em;
+    margin: 0px;
+    margin-bottom: 5px;
+    text-decoration: underline;
+}
+ol{
+    margin: 0px;
+    font-size: 1.2em;
+}
+
+.datagrid table { border-collapse: collapse; text-align: left; width: 100%; }
+.datagrid {font: normal 12px/150% Arial, Helvetica, sans-serif; background: #fff; overflow: hidden; border: 2px solid #001B29; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+.datagrid table td,
+.datagrid table th { padding: 3px 20px; }
+.datagrid table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #099AE3), color-stop(1, #0997DE) );background:-moz-linear-gradient( center top, #099AE3 5%, #0997DE 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#099AE3', endColorstr='#0997DE');background-color:#099AE3; color:#000000; font-size: 18px; font-weight: bold; border-left: 2px solid #000000; }
+.datagrid table thead th:first-child { border: none; }
+.datagrid table tbody td { color: black; border-left: 2px solid #070708;font-size: 12px;border-bottom: 2px solid #000000;font-weight: normal; }
+.datagrid table tbody .alt td { background: #E0F0FF; color: black; }
+.datagrid table tbody td:first-child { border-left: none; }
+.datagrid table tbody tr:last-child td { border-bottom: none; }
+.onbekend {
+    background-color: rgba(255, 0, 0, 0.58);
+}

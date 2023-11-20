@@ -1,0 +1,33 @@
+div {
+	text-align: center;
+	line-height: 50px;
+
+}
+
+
+.area {
+	width:100px;
+	height:100px;
+	background:red;
+	display:block;
+}
+
+.tall {
+	height:150px;
+	line-height: 75px;
+}
+
+.short {
+	height:50px;
+	line-height: 25px;
+}
+
+.floaty{
+	float:left;
+	background:green;
+}
+
+.break {
+	clear:both;
+	background:blue;
+}
