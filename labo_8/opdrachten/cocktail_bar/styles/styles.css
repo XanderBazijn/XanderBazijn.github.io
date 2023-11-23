@@ -28,7 +28,7 @@ section{
 }
 #weeklySpecials{
     border: 2px solid #007e7e;
-    padding: 5px;
+    padding: 2%;
     box-sizing: border-box;
     float: left;
     width: 30%;
@@ -53,5 +53,5 @@ footer{
     border: white dotted 2px;
 }
 a:link{
-    color: black;
+    color: rgba(68,68,68,0.38);
 }
