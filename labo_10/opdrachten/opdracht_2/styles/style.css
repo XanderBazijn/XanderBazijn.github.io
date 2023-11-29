@@ -1,0 +1,20 @@
+
+.midden{
+    height: 100px;
+    background-color: grey;
+    box-sizing: border-box;
+}
+.buitenkant{
+    height: 100px;
+    background-color: lightgrey;
+    box-sizing: border-box;
+
+}
+.even{
+    background-color: grey;
+    height: 100px;
+}
+.oneven{
+    background-color: lightgrey;
+    height: 100px;
+}
